@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/solomon/static/css/main.073c9b0a.css",
+    "main.js": "/solomon/static/js/main.b9b4e72d.js",
+    "static/js/787.73f8abcf.chunk.js": "/solomon/static/js/787.73f8abcf.chunk.js",
+    "static/media/logo.svg": "/solomon/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/solomon/index.html",
+    "main.073c9b0a.css.map": "/solomon/static/css/main.073c9b0a.css.map",
+    "main.b9b4e72d.js.map": "/solomon/static/js/main.b9b4e72d.js.map",
+    "787.73f8abcf.chunk.js.map": "/solomon/static/js/787.73f8abcf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.b9b4e72d.js"
+  ]
+}
