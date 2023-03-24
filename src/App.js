@@ -1,12 +1,15 @@
-import logo from './logo.svg';
-import './App.css';
+import logo from "./logo.svg";
+import "./App.css";
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <h1> SOLOMON GEBREMICHAEL </h1>
-      </header>
+    <div className="container">
+      {/* <img src={logo} className="App-logo" alt="logo" /> */}
+      <div class="ring">
+        <div class="ball-holder">
+          <div class="ball"></div>
+        </div>
+      </div>
     </div>
   );
 }
