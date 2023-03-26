@@ -1,16 +1,16 @@
 import logo from "./logo.svg";
 import "./App.css";
 
-import LandingPage from "./Home/LandingPage"; 
+import LandingPage from "./Home/LandingPage";
 import Skills from "./Skills";
+import Githubusers from "./Githubusers";
 function App() {
   return (
     <>
-    <Skills />
-     <LandingPage />
-   
+      <Skills />
+      <Githubusers />
+      <LandingPage />
     </>
-
   );
 }
 
