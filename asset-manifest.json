@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/solomon/static/css/main.0eb04486.css",
-    "main.js": "/solomon/static/js/main.b1fadae3.js",
+    "main.css": "/solomon/static/css/main.d979b823.css",
+    "main.js": "/solomon/static/js/main.5bc2e5f7.js",
     "static/js/787.73f8abcf.chunk.js": "/solomon/static/js/787.73f8abcf.chunk.js",
+    "static/media/Landingpage.jpg": "/solomon/static/media/Landingpage.d9af71f521a6ff028b3c.jpg",
     "static/media/logo.svg": "/solomon/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/solomon/index.html",
-    "main.0eb04486.css.map": "/solomon/static/css/main.0eb04486.css.map",
-    "main.b1fadae3.js.map": "/solomon/static/js/main.b1fadae3.js.map",
+    "main.d979b823.css.map": "/solomon/static/css/main.d979b823.css.map",
+    "main.5bc2e5f7.js.map": "/solomon/static/js/main.5bc2e5f7.js.map",
     "787.73f8abcf.chunk.js.map": "/solomon/static/js/787.73f8abcf.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0eb04486.css",
-    "static/js/main.b1fadae3.js"
+    "static/css/main.d979b823.css",
+    "static/js/main.5bc2e5f7.js"
   ]
 }
